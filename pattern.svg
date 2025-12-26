@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+  <rect width="200" height="200" fill="#f3dede"/>
+
+  <text x="30" y="60" font-size="24">🕊️</text>
+  <text x="120" y="40" font-size="18">🍓</text>
+  <text x="80" y="120" font-size="20">🎀</text>
+  <text x="150" y="150" font-size="22">🕊️</text>
+</svg>
